@@ -1,0 +1,2 @@
+This code is only work with Windows and must be run from the Command Prompt (CMD).
+Running it on other operating systems or through alternative terminals (e.g., PowerShell, Git Bash, or VS Code terminal) may result in unexpected behavior or errors.
